@@ -13,6 +13,9 @@ Find the install guide [here](install.md)
 > Run all commands with **elevated** VS22's native cmd (x64 Native Tools Command Prompt for VS 2022 LTSC 17.8).\
 > `Ctrl + C` to exit any job.
 
+### Custom data
+Install COLMAP + ffmpeg, and have both in env var's PATH.
+
 ### Training
 ```
 ns-train [method] --data [data-path]
