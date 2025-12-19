@@ -1,4 +1,4 @@
-# nerfstudio guide
+# nerfstudio
 
 > [!NOTE]
 > Documentation and troubleshooting notes for nerfstudio.\
