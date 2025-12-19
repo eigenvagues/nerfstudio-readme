@@ -1,4 +1,4 @@
-# nerfstudio install
+# nerfstudio guide
 
 > [!NOTE]
 > Documentation and troubleshooting notes for nerfstudio.\
